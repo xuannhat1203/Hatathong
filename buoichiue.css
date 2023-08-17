@@ -1,0 +1,218 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 25px;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+    opacity: 0.4;
+}
+
+.let {
+    display: flex;
+    margin-left: 50px;
+
+}
+
+.big {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-right: 50px;
+}
+
+nav {
+    background-color: red;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 500px;
+    align-items: center;
+}
+
+.RK {
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+.alltwo {
+    height:850px;
+}
+
+.main {
+    background-image: url("./image/banner1.jpg");
+    width: 100%;
+    height: 700px;
+    background-size: 100% 700px;
+}
+
+.text {
+    font-size: 150px;
+}
+
+button {
+    width: 190px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.maintwo {
+    position: relative;
+    top: 100px;
+    left: 120px;
+}
+
+.spantwo {
+    position: relative;
+    top: -22px;
+    left: 5px;
+
+}
+
+.spanone {
+    display: flex;
+    justify-content: end;
+    margin-top: -250px;
+}
+
+.inmain {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ininmain {
+    display: flex;
+    margin-right: 50px;
+
+}
+
+.icon {
+    position: relative;
+    top: 5px;
+}
+
+.mainone {
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.paragrap {
+    opacity: 0.4;
+}
+
+.price {
+    color: rgb(25, 197, 197);
+    font-size: 25px;
+}
+
+.all {
+    display: flex;
+    justify-content: space-around;
+}
+
+.size {
+    width: 350px;
+}
+
+.fontsize {
+    font-size: 20px;
+}
+
+.alltwo {
+    background-image: url("./image/collection-item1.jpg");
+    background-size: 775px 815px;
+    background-repeat: no-repeat;
+    margin-left: 15px;
+}
+.first {
+    position: relative;
+    left: 400px;
+    top: 200px;
+}
+
+.CASUAL {
+    font-size: 15px;
+    opacity: 0.6;
+}
+
+.Street {
+    font-size: 50px;
+}
+
+.paragrap2 {
+    display: flex;
+}
+
+.shoes {
+    background-image: url("./image/collection-item2.jpg");
+    background-size: 760px 400px;
+    width: 772px;
+    height: 600px;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 800px;
+    bottom: 418px;
+}
+
+.font {
+    font-size: 35px;
+}
+
+.allshoes {
+    margin-left: 70px;
+    position: relative;
+    top: 150px;
+}
+
+.hat {
+    background-image: url("./image/collection-item3.jpg");
+    width: 772px;
+    height: 600px;
+    background-size: 760px 400px;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 800px;
+    bottom: 600px;
+}
+.footerone {
+    display: flex;
+    justify-content: space-around;
+}
+.footerone ul li {
+   list-style: none;
+}
+.raise {
+    font-size: 15px;
+}
+.distance {
+    display: flex;
+    flex-wrap:wrap ;
+    gap:10px
+}
+.footer {
+    position: relative;
+    bottom: 200px;
+}
+.small {
+     width: 20px; 
+}
+.last {
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+}
